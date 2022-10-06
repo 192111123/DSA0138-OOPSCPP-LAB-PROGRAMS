@@ -22,10 +22,10 @@
 4.employee details
 5.elegibility
 6.particular person elegibility
-7.
-8.
-9.
-10.
+7.fibonacci series
+8.students marks in 4 subjects
+9.reverse order
+10.removing vowels from strings
 11.
 12.
 13.
