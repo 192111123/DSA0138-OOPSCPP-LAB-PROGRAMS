@@ -26,8 +26,8 @@
 8.students marks in 4 subjects
 9.reverse order
 10.removing vowels from strings
-11.
-12.
-13.
+11.three students records
+12.adding of 2 numbers using friend class
+13.decimal to binary
 14.
 15.
