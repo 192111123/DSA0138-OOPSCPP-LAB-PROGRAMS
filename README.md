@@ -29,5 +29,5 @@
 11.three students records
 12.adding of 2 numbers using friend class
 13.decimal to binary
-14.
+14.simple intrest
 15.
