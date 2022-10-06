@@ -1,4 +1,5 @@
-# DSA0138-OOPSCPP-LAB-PROGRAMS
+                                      # DSA0138-OOPSCPP-LAB-PROGRAMS
+(all programs done in dev c++)
                                                   DAY 1
 1.Largest among 3 numbers
 2.perfect numbers
@@ -30,4 +31,4 @@
 12.adding of 2 numbers using friend class
 13.decimal to binary
 14.simple intrest
-15.
+15.electricity bill generation
