@@ -56,9 +56,8 @@
  1.sum and product using single inheritence
  2.test results of 3 subjets
  3.
- 4.
+ 4.area of circles using pointers
  5.sum of array integer using pointers
-
  6.
  7.
  8.
