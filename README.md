@@ -1,6 +1,7 @@
                                       # DSA0138-OOPSCPP-LAB-PROGRAMS
 (all programs done in dev c++)
                                                   DAY 1
+                                                  
 1.Largest among 3 numbers
 2.perfect numbers
 3.reversing a word
@@ -16,7 +17,9 @@
 13.remove duplicates
 14.multiplication or division table
 15.sum of digits and perfect numbers
-                                              DAY 2
+
+                                              DAY 
+                                              
 1.area of square,triangle,rectangle,circle
 2.arthimetic operators
 3.swapping of 2 numbers
@@ -32,7 +35,9 @@
 13.decimal to binary
 14.simple intrest
 15.electricity bill generation
+
                                                          DAY 3
+                                                         
  1.student class (unknown)
  2.class named rectangle
  3.piggie bank
@@ -45,7 +50,9 @@
  10.three banks
  11.integer data member i
  12.RBI
+ 
                                           DAY 4
+                                          
  1.sum and product using single inheritence
  2.test results of 3 subjets
  3.
