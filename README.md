@@ -32,3 +32,16 @@
 13.decimal to binary
 14.simple intrest
 15.electricity bill generation
+                                                         DAY 3
+ 1.student class (unknown)
+ 2.class named rectangle
+ 3.piggie bank
+ 4.
+ 5.PRINT NUMBER
+ 6.print an integer and character
+ 7.area of square and rectangle
+ 8.
+ 9.degree class
+ 10.three banks
+ 11.integer data member i
+ 12.RBI
