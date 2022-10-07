@@ -45,3 +45,12 @@
  10.three banks
  11.integer data member i
  12.RBI
+                                          DAY 4
+ 1.sum and product using single inheritence
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7.
+ 8.
