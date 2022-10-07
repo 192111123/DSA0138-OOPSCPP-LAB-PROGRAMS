@@ -36,11 +36,11 @@
  1.student class (unknown)
  2.class named rectangle
  3.piggie bank
- 4.
+ 4programming class
  5.PRINT NUMBER
  6.print an integer and character
  7.area of square and rectangle
- 8.
+ 8.student with 3 data members
  9.degree class
  10.three banks
  11.integer data member i
