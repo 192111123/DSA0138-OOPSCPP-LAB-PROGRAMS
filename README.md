@@ -57,7 +57,8 @@
  2.test results of 3 subjets
  3.
  4.
- 5.
+ 5.sum of array integer using pointers
+
  6.
  7.
  8.
