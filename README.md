@@ -47,7 +47,7 @@
  12.RBI
                                           DAY 4
  1.sum and product using single inheritence
- 2.
+ 2.test results of 3 subjets
  3.
  4.
  5.
