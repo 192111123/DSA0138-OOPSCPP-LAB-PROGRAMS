@@ -1,5 +1,7 @@
                                       # DSA0138-OOPSCPP-LAB-PROGRAMS
+                                      
 (all programs done in dev c++)
+
                                                   DAY 1
                                                   
 1.Largest among 3 numbers
@@ -18,7 +20,7 @@
 14.multiplication or division table
 15.sum of digits and perfect numbers
 
-                                              DAY 
+                                              DAY 2
                                               
 1.area of square,triangle,rectangle,circle
 2.arthimetic operators
