@@ -61,5 +61,5 @@
  4.area of circles using pointers
  5.sum of array integer using pointers
  6.Hybrid inheritance
- 7.
+ 7.No.of fruits in basket
  8.
