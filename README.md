@@ -62,4 +62,11 @@
  5.sum of array integer using pointers
  6.Hybrid inheritance
  7.No.of fruits in basket
- 8.
+ 8.Average marks of class
+
+
+                                                 DAY  5
+                                                 
+                                                 
+                                                 
+
