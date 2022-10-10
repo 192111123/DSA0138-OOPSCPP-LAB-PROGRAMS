@@ -19,6 +19,10 @@
 13.remove duplicates
 14.multiplication or division table
 15.sum of digits and perfect numbers
+16.generating random numbers
+17.perfect squares
+18.removing variables from a string
+19.even or odd
 
                                               DAY 2
                                               
