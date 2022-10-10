@@ -66,7 +66,10 @@
 
 
                                                  DAY  5
-                                                 
-                                                 
-                                                 
-
+1.mammals and marine animals
+2.fruits in a basket
+3.total marks of each student in 3 subjects                             
+4. details of different vehicles                                         
+5. shapes of a diagrams
+6.RBI banking
+7.customer details                                             
