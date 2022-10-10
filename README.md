@@ -37,6 +37,8 @@
 13.decimal to binary
 14.simple intrest
 15.electricity bill generation
+16.smallest among given numbers
+17.comparing of 2 strings
 
                                                          DAY 3
                                                          
