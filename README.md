@@ -43,6 +43,7 @@
 15.electricity bill generation
 16.smallest among given numbers
 17.comparing of 2 strings
+18.raise to power of given number using recursion
 
                                                          DAY 3
                                                          
